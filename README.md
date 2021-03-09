@@ -2,7 +2,7 @@
 
 AD:  a repository for graph convolutional networks at https://github.com/Jiakui/awesome-gcn (resources for graph convolutional networks  （图卷积神经网络相关资源）). 
 
-
+[toc]
 # Papers: 
 
 1. [arXiv:1810.04805](https://arxiv.org/abs/1810.04805), BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
